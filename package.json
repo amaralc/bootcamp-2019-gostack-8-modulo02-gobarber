@@ -5,7 +5,14 @@
   "repository": "https://github.com/amaralc/bootcamp-2019-gostack-8-modulo02-gobarber.git",
   "author": "amaralc <amaral.calil@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon  src/server.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1",
+    "sucrase": "^3.10.1"
   }
 }
