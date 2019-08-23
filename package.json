@@ -1,0 +1,11 @@
+{
+  "name": "bootcamp-2019-gostack-8-modulo02-gobarber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/amaralc/bootcamp-2019-gostack-8-modulo02-gobarber.git",
+  "author": "amaralc <amaral.calil@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
